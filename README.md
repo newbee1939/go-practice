@@ -5,3 +5,7 @@
 
 ## cmd/net/
 - 外部のWebサイト(engilaboo.com)にアクセスして、そのコンテンツを取得する実装
+
+## Goの標準入力について
+Goの標準入力：https://zenn.dev/mirai_33/articles/9e5ad35d3414a3
+Paizaの公式：https://paiza.jp/guide/samplecode.html

@@ -142,4 +142,6 @@ func main() {
 		Accelerate()
 		Brake()
 	}
+
+	// 配列とスライスについてもまとめておきたい
 }
